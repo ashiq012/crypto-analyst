@@ -1,12 +1,27 @@
-# React + Vite
+📊 Crypto Tracker
+A real-time cryptocurrency tracking app built with React.js, Tailwind CSS, and CoinGecko API.
+Users can search, filter, and view live updates of cryptocurrencies with a clean, responsive UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+🔍 Search & Filter coins by name, price, market cap, and 24h change.
+📈 Live market data using CoinGecko REST API.
+📱 Responsive UI for both desktop and mobile devices.
+⚡ Fast & modern frontend built with React.js and Tailwind CSS.
+🌐 Deployed on Vercel for seamless access.
 
-Currently, two official plugins are available:
+🛠️ Tech Stack
+Frontend: React.js, Tailwind CSS
+API: CoinGecko API
+Deployment: Vercel
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📸 Screenshots
+👉 (Add your app screenshots or demo GIF here)
+Home Page with crypto list
+Search & filter functionality
+Responsive mobile view
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔑 How It Works
+Fetches real-time data from CoinGecko API.
+Displays a list of coins with key details (name, price, market cap, 24h change).
+Users can search or filter coins dynamically.
+Fully responsive for all screen sizes.
